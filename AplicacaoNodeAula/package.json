@@ -1,19 +1,19 @@
 {
   "name": "aplicacaonodeaula",
   "version": "1.0.0",
-  "description": "\"aplicativo da aula\"",
+  "description": "aplicativo da aula",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo Error: no test specified && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MarlondeSouza/aoplicacaonodeCI.git"
   },
   "keywords": [
-    "\"aplicao",
+    "aplicao",
     "aula",
-    "teste\""
+    "teste"
   ],
   "author": "Marlon",
   "license": "ISC",
@@ -22,3 +22,4 @@
   },
   "homepage": "https://github.com/MarlondeSouza/aoplicacaonodeCI#readme"
 }
+
